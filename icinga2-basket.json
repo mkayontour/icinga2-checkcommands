@@ -36,7 +36,7 @@
             "methods_execute": "PluginCheck",
             "object_name": "elasticsearch-health",
             "object_type": "external_object",
-            "timeout": 60,
+            "timeout": 60
         },
         "elasticsearch-query": {
             "arguments": {
@@ -98,7 +98,7 @@
             "methods_execute": "PluginCheck",
             "object_name": "elasticsearch-query",
             "object_type": "external_object",
-            "timeout": 60,
+            "timeout": 60
         }
     },
     "CommandTemplate": {
@@ -139,7 +139,7 @@
             "fields": [],
             "methods_execute": "PluginCheck",
             "object_name": "elasticsearch-netways",
-            "object_type": "template",
+            "object_type": "template"
         }
     }
 }
